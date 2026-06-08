@@ -1,0 +1,13 @@
+{
+  "name": "anti-oop-design",
+  "description": "Architecture by aggregation: separate pure computation from side-effect storage.",
+  "version": "1.0.0",
+  "author": "cypress927",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cypress927/anti-oop-claude-skill.git"
+  },
+  "skills": [
+    "./skills/anti-oop-design"
+  ]
+}
