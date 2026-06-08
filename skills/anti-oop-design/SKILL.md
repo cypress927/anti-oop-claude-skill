@@ -1,6 +1,9 @@
 ---
 name: anti-oop-design
-description: Architecture by aggregation: separate pure computation from side-effect storage. Group related business logic first, then split into pure functions and I/O storage. Name last, from what emerges. Keep growing data out of computation.
+description: >-
+  Architecture by aggregation: decouple pure functions from side effects. Group
+  related logic, split into pure functions and I/O, name last from what emerges,
+  keep growing data out of computation.
 ---
 
 ## Core Idea
